@@ -1,16 +1,5 @@
-# mamedova1127
+#Column
 
-A new Flutter project.
+##Урок по колонкам
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="510" alt="Снимок экрана 2024-02-07 в 09 40 36" src="https://github.com/GirlSailor/Flutter_Column/assets/145029043/bd9cbb5d-4b37-47fa-afa1-7ae4d13ff866">
